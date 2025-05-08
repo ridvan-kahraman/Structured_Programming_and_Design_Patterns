@@ -1,4 +1,3 @@
-```Pascal
 FUNCTION_BLOCK FB_Ramp
 
 (*
@@ -58,4 +57,3 @@ ELSE
 	q_Value := i_Target;
 	
 END_IF
-```
